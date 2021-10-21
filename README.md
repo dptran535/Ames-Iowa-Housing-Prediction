@@ -1,6 +1,4 @@
-## Dennis Tran, DSI-Deckard
-
-## Instructors: Gwen Rathgeber, Heather Robbins, Anderson Prewitt
+## Dennis Tran
 
 ## Problem Statement
 
